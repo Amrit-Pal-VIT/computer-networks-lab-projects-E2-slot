@@ -24,6 +24,3 @@ A Java-based LAN screen sharing and control application similar to AnyDesk. It a
 
 ## Setup Instructions
 See README.md for detailed installation and execution steps.
-24BCE1980 BHAVANA REDDY R
-24BCE5126 AKSHAT WADAGBALKAR
-24BCE5072 NEERAV AHUJA
