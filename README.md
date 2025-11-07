@@ -20,5 +20,3 @@
 4. Create a pull request for review
 
 ---
-
-*For any queries, contact 8761985584*
