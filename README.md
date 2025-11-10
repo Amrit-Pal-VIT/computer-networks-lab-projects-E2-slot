@@ -18,5 +18,6 @@
 2. Create a folder with your team name in the `projects/` directory
 3. Add your project files and documentation
 4. Create a pull request for review
+5. hi
 
 ---
